@@ -11,5 +11,4 @@ This is my personal research project on the Chartered Accountant (CA) career pat
 ## Career Goal
 To become a Chartered Accountant and explore AI in finance.
 
-## Career Roadmap
-![CA Career Roadmap](ca-career-roadmap.jpeg)
+
