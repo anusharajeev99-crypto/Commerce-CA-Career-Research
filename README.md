@@ -1,5 +1,7 @@
 # Commerce-CA-Career-Research
 
+AI-driven career research — GBL International Internship 2026
+
 ## About
 This is my personal research project on the Chartered Accountant (CA) career path.
 
