@@ -13,4 +13,6 @@ This is my personal research project on the Chartered Accountant (CA) career pat
 ## Career Goal
 To become a Chartered Accountant and explore AI in finance.
 
-
+## Certifications
+- Introduction to Generative AI — Google Cloud
+  
