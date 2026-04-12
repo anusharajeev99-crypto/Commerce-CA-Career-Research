@@ -4,7 +4,13 @@ AI-driven career research — GBL International Internship 2026
 
 ## 👩‍🎓About
 
-This is my personal research project on the Chartered Accountant (CA) career path.
+This repository contains my research and learning about Accountancy paths.
+
+---
+
+## 📂Contents
+- Career pathway slides
+- Notes on accounting and AI in commerce
 
 ---
 
