@@ -1,29 +1,17 @@
-# 📝Commerce-CA-Career-Research
+# 📘 Commerce CA Career Research
 
-AI-driven career research — GBL International Internship 2026
+This repository contains my research and learning about career options in commerce.
 
-## 👩‍🎓About
+## 📌 About
+I am exploring different career paths related to commerce, accounting, and AI.
 
-This repository contains my research and learning about Accountancy paths.
+## 📂 Contents
+- Career pathway slides  
+- Notes and research materials  
+- Learning resources  
 
----
+## 🎯 Purpose
+To gain clarity about my future career and understand opportunities in the commerce field.
 
-## 📂Contents
-- Career pathway slides
-- Notes on accounting and AI in commerce
-
----
-
-## 📚What I Learned
-- CA roadmap
-- Required skills
-- Role of AI in finance
-
----
-
-## 🎯Career Goal
-
-To become a Chartered Accountant and explore AI in finance.
-
-
-  
+## 🚀 Progress
+I am continuously learning and updating this repository as I explore new topics.
